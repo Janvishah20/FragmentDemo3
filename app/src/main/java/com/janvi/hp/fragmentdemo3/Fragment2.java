@@ -12,9 +12,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-/**
- * Created by Win10 on 08-02-2017.
- */
 
 public class Fragment2 extends Fragment {
     @Nullable
