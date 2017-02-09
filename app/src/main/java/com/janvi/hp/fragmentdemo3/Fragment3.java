@@ -11,9 +11,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * Created by Win10 on 08-02-2017.
- */
 
 public class Fragment3 extends Fragment {
     @Nullable
